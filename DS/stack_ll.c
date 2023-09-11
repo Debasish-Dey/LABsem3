@@ -1,3 +1,4 @@
+//Write a program to implement stack using liked list
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,4 @@
+// Write a program for operationsof limked list 
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
