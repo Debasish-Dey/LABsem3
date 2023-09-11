@@ -23,7 +23,7 @@ int pop() {
 
   int data = top->data;
   top = top->next;
-  free(top);
+//   free(top);
   return data;
 }
 
