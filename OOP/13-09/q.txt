@@ -1,0 +1,7 @@
+write a c++ program to display the student grade suing multiple inheritance
+write a c++ program to show access to private , public, protected using inheritance
+write a C++ program to demonstrate hybrid inheritance
+write a c++ program to demstrate an example of hierarchical inheritance 
+write a c++ program to calculate area of triangle, rectangle, circle, square using virtual base class
+write a c++ program to demonstrate copy constructor using an example 
+write a c++ program to calculate area of trapezium, rectangle, and square using constructor overloading

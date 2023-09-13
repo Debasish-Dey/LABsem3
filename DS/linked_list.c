@@ -1,4 +1,4 @@
-// Write a program for operationsof limked list 
+// Write a program for operations of linked list 
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
