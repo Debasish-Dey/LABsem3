@@ -59,6 +59,7 @@ int main(){
     struct node *ptr=head;
     printf("Enter data in 1st node: ");
     scanf("%d", &head->data);
+    head->next=NULL;
     
     int w=1;
     while(w){

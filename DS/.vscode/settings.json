@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "inser_array.C": "cpp"
+    }
+}
