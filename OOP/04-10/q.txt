@@ -1,0 +1,4 @@
+to overload binary operator (*) to perform the operation of interger with object using friend function
+to perform the addition and subtraction of two complex number using binary operator by using friend function
+to overload <,<= operator using member function
+to overload ==,!= operator using member function

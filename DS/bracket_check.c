@@ -9,7 +9,7 @@ struct Stack {
 };
 
 void push(struct Stack** stack, char data) {
-    struct Stack* newNode = (struct Stack*)malloc(sizeof(struct Stack));
+    struct Stack* newNode = (struct Stack*)malloc(sizeof(struct Stack));   
     if (newNode == NULL) {
         printf("Memory allocation error\n");
         exit(1);
